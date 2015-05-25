@@ -1,2 +1,2 @@
-# IcosaLEDron_Assembly
-Print Files and Instructions on assembly of IcosaLEDron smart ball.
+The IcosaLEDron is a programmable, rechargeable 20 sided “ball” with an adresseable RGB LED on each face.Inside is a custom PCB equipped with the Atmega328p, 3-axis accelerometer/ gyroscope/ magnetometer, FTDI with microUSB communication and charging. Arduino compatible for easy programming of different effects, the IcosaLEDron is a platform for creating light effects based on accelerations applied to the ball.
+Development Kits, Electronics, and fully built IcosaLEDron's available at shop.afritlabs.com
